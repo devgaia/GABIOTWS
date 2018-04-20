@@ -1,0 +1,9 @@
+[
+    {
+      "ruleId": "congestion",
+      "valuename": "value",
+      "threshhold": 10,
+      "action":  "twitter"
+    }
+
+]
